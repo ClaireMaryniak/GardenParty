@@ -49,3 +49,52 @@
 
 
 ## Pig Roast
+
+## To-Do During Party
+#### Cleanup
+ * Recycling - empty and replace bins (beer tent, porch, kitchen) - hourly
+ * Garbage - empty and replace bins (beer tent, porch, kitchen) -  hourly
+ * Dishes - gather, wash, dry, put away - hourly
+ * Bathrooms - verify TP levels and wipe down - as needed
+ * Bloodstains - as needed 
+
+#### Food and Drink
+ * Food table - tidy and replenish
+ * Refill water dispensers with bottled water and ice
+ * Wine station - tidy and replenish (bottle and glasses)
+ * Beer tent - if beer mixers are used, ensure supply (ginger ale, lemonade, grapefruit juice, sirops, etc)
+
+#### Entertainment
+ * Music still on and at appropriate volume
+ * Badminton - birdies and raquets available, no dangerous debris on field
+ * Ping-pong - balls and paddles available, no dangerous debris
+ * Children's zone - toys not in use are tidied, free of hazards
+
+## Day After
+
+#### Breakfast
+ * Bacon (oven) and eggs
+ * Scones for good helpers
+ * Leftover beer mimosa
+ * 
+ 
+#### Decorations
+ * remove & place in boxes
+ * bring boxes to attic
+
+#### Beer Tent
+ * dismantle tent
+ * clean taps
+ * wipe down furniture
+ * store
+ * place empty kegs & rented equipment in Jon's car
+ * 
+ 
+#### Cleaning
+ * sweep and mop floors
+ * wash and put away all lingering dishes
+ * launder fabrics (tablecloths, towels)
+ * launder and replace bedsheets
+ * gather all garbage from outside
+ * put garbage and recycling bins at curbside
+ * 
