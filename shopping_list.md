@@ -12,4 +12,5 @@
 * Tiki torches
   * Fuel
 * Garbage bags
+* Purple pancakes
 
