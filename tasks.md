@@ -13,7 +13,7 @@
   * Buy tub for pig corpse
   * Buy Rebar for something
 * Go to [Costco](costco.md)
-* Go [shopping](shpping_list.md)
+* Go [shopping](shopping_list.md)
 * Put up Twinkle lights to charge on the sun
 * Clean bathrooms
 * Tidy house
