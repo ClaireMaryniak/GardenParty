@@ -5,8 +5,6 @@
 * 8 1L Jugs of Water
 * Big tubs
 * Wire frames for trash
-* Plastic Utensils:
-  * Forks
 * Plastic Table Cloths
 * Coffee/Tea
 * Tiki torches
