@@ -1,5 +1,9 @@
 # Schedule of Tasks
 
+**Claire had previously created a more [detailed task list](https://docs.google.com/spreadsheets/d/18EjC3QOAHVT2flhb2Dsf8rSbgeJnyei93hjIFn60XMs/edit#gid=0)**
+Please refer to that document until both lists are reconciled
+
+
 ## Garden Party Prep
 
 ### House prep
