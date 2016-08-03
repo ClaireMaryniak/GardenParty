@@ -8,16 +8,17 @@
 
 
 * Build pig pit
-  * Buy cinder blocks
   * Dig hole
   * Buy tub for pig corpse
-  * Buy Rebar for something
 * Go to [Costco](costco.md)
+  * Starting to look like this is pointless
 * Go [shopping](shopping_list.md)
 * Put up Twinkle lights to charge on the sun
 * Clean bathrooms
 * Tidy house
 * Wash and prep champagne glasses
+* Test run: cook chicken in pit
+* Erect big tent
 
 #### Friday
 
