@@ -9,7 +9,7 @@
 
 * Build pig pit
   * Dig hole
-  * Buy tub for pig corpse
+  * [Buy stuff](pig_prep.md) for pig corpse
 * Go to [Costco](costco.md)
   * Starting to look like this is pointless
 * Go [shopping](shopping_list.md)

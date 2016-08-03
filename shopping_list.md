@@ -25,3 +25,9 @@
 * 4 x 8ft 1 x 3 wood struts
 * 1/4 inch screws
 
+## Pig roast
+
+* Box of Salt
+* bag of Sugar
+* Apples
+* Plastic tub
