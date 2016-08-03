@@ -44,7 +44,8 @@
 
 * Chop Vegetables and Fruit [Sabrina]
 * Set Up Tent [Warren]
-
+* Set Up Keg
+* Roast Pig 
 
 
 ## Pig Roast
